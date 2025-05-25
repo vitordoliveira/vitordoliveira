@@ -1,6 +1,6 @@
 # Hi there, I'm Vitor 👋
 
-## Software Developer | Full Stack Developer | Data Analyst
+## Full Stack Developer | Data Analyst
 
 Passionate about creating web applications with clean code and great user experiences. I'm also interested in data analysis and extracting insights from data. Currently studying Analysis and Systems Development at IFSP.
 
