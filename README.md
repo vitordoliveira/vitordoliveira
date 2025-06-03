@@ -5,7 +5,8 @@
 Passionate about creating web applications with clean code and great user experiences. I'm also interested in data analysis and extracting insights from data. Currently studying Analysis and Systems Development at IFSP.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-de-oliveira-905255217/)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)
 
 ## Languages and Tools
 
@@ -20,13 +21,13 @@ Passionate about creating web applications with clean code and great user experi
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
 ![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=005C84)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
 ![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![QuickSight](https://img.shields.io/badge/QuickSight-000000?style=for-the-badge&logo=amazon-aws&logoColor=00B6CB)
+![QuickSight](https://img.shields.io/badge/QuickSight-000000?style=for-the-badge&logo=amazon-quicksight&logoColor=00B6CB)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
