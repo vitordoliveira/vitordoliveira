@@ -48,5 +48,5 @@ Currently studying Analysis and Systems Development at IFSP.
 
   <!-- Ferramentas/IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code"/>
-  <img src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg" height="32" alt="Apache NetBeans"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="32" alt="Apache NetBeans"/>
 </p>
