@@ -7,7 +7,11 @@ I'm also interested in data analysis and extracting insights from data.
 Currently studying Analysis and Systems Development at IFSP.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/vitor-de-oliveira-905255217/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitor-de-oliveira-905255217/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## Languages and Tools:
 <p align="left">
@@ -25,11 +29,11 @@ Currently studying Analysis and Systems Development at IFSP.
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="32" alt="Power BI"/>
   <!-- Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="32" alt="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="32" alt="Excel"/>
   <!-- AWS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="32" alt="AWS"/>
   <!-- QuickSight -->
-  <img src="https://freebiesupply.com/logos/amazon-quicksight-logo.svg" height="32" alt="QuickSight"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonquicksight.svg" height="32" alt="QuickSight"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code"/>
