@@ -33,7 +33,7 @@ Currently studying Analysis and Systems Development at IFSP.
   <!-- AWS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="32" alt="AWS"/>
   <!-- QuickSight -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonquicksight.svg" height="32" alt="QuickSight"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDjvr9_8GikHeHzZG1xaZaoOEUKNuEsqodQ&s" height="32" alt="QuickSight"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code"/>
