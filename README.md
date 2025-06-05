@@ -9,7 +9,10 @@ Passionate about creating web applications with clean code and great user experi
   <a href="https://www.linkedin.com/in/vitor-de-oliveira-905255217/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
   </a>
-**E-mail:** [contato.vitororodrigues@gmail.com](mailto:contato.vitororodrigues@gmail.com)
+  <a href="mailto:contato.vitororodrigues@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="32" alt="E-mail"/>
+  </a>
+</p>
 
 ## Languages and Tools:
 <p align="left">
