@@ -10,9 +10,9 @@ Passionate about creating web applications with clean code and great user experi
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
   </a>
   <a href="mailto:contato.vitororodrigues@gmail.com">
-    <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-uxssQK2Lw8kK0tI9Uu1gMDzb/user-6a3k4tVj3HVC4B6nL21uDULa/img-za6ddcV6g1xZ3hL4zjLJkzJ6.png?st=2024-06-05T17%3A59%3A00Z&se=2026-06-05T17%3A59%3A00Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image&sigr=7cdXc8V4GkZsduQK1YQ1z9LE1z2xkW1z5W9JcX8bXkQE%3D" height="32" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluent/512/gmail-new.png" height="32" alt="Gmail"/>
   </a>
-</p>>
+</p>
 
 ## Languages and Tools:
 <p align="left">
