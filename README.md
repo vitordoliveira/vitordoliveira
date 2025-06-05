@@ -39,7 +39,7 @@ Passionate about creating web applications with clean code and great user experi
   <!-- BI/Data -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="32" alt="Power BI"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="32" alt="Excel"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEDjvr9_8GikHeHzZG1xaZaoOEUKNuEsqodQ&s" height="32" alt="QuickSight"/>
+  <img src="https://static-00.iconduck.com/assets.00/aws-quicksight-icon-1024x1024-tmz7yii8.png" height="32" alt="QuickSight"/>
 
   <!-- Cloud -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="32" alt="AWS"/>
