@@ -10,7 +10,7 @@ Passionate about creating web applications with clean code and great user experi
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
   </a>
   <a href="mailto:contato.vitororodrigues@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="32" alt="E-mail"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="32" alt="Gmail"/>
   </a>
 </p>
 
